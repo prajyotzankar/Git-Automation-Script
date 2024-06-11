@@ -10,7 +10,7 @@
 ## Clone or Download
 
 ```terminal
-git clone https://github.com/yourusername/git-automation-script.git
+git clone https://github.com/prajyotzankar/Git-Automation-Script.git
 ```
 
 ## Usage
@@ -24,12 +24,12 @@ git clone https://github.com/yourusername/git-automation-script.git
 2. **Make the script executable**:
 
    ```sh
-   chmod +x path/to/your/script.sh
+   chmod +x path/to/your/back_up_sync_add_commit_push.sh
    ```
 
 3. **Run the script**:
    ```sh
-   ./path/to/your/script.sh
+   ./path/to/your/back_up_sync_add_commit_push.sh
    ```
 
 ## Script Workflow
@@ -106,7 +106,7 @@ Git add, commit, and push completed successfully.
 
 ## BUGs or comments
 
-[Create new Issues](https://github.com/prajyotzankar/password-generator-react/issues) (preferred)
+[Create new Issues](https://github.com/prajyotzankar/Git-Automation-Script/issues/new/choose) (preferred)
 
 Email Me: zankarprajyotsushil@gmail.com (welcome, say hi)
 
@@ -116,4 +116,4 @@ Email Me: zankarprajyotsushil@gmail.com (welcome, say hi)
 
 ### License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/yourusername/git-automation-script/blob/master/LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/prajyotzankar/Git-Automation-Script/blob/master/LICENSE)
