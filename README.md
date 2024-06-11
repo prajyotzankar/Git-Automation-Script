@@ -10,7 +10,7 @@
 ## Clone or Download
 
 ```terminal
-git clone https://github.com/yourusername/git-automation-script.git
+git clone https://github.com/prajyotzankar/Git-Automation-Script.git
 ```
 
 ## Usage
@@ -24,12 +24,12 @@ git clone https://github.com/yourusername/git-automation-script.git
 2. **Make the script executable**:
 
    ```sh
-   chmod +x path/to/your/script.sh
+   chmod +x path/to/your/back_up_sync_add_commit_push.sh
    ```
 
 3. **Run the script**:
    ```sh
-   ./path/to/your/script.sh
+   ./path/to/your/back_up_sync_add_commit_push.sh
    ```
 
 ## Script Workflow
