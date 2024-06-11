@@ -106,7 +106,7 @@ Git add, commit, and push completed successfully.
 
 ## BUGs or comments
 
-[Create new Issues](https://github.com/prajyotzankar/password-generator-react/issues) (preferred)
+[Create new Issues](https://github.com/prajyotzankar/Git-Automation-Script/issues/new/choose) (preferred)
 
 Email Me: zankarprajyotsushil@gmail.com (welcome, say hi)
 
@@ -116,4 +116,4 @@ Email Me: zankarprajyotsushil@gmail.com (welcome, say hi)
 
 ### License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/yourusername/git-automation-script/blob/master/LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/prajyotzankar/Git-Automation-Script/blob/master/LICENSE)
